@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Pokedex</string>
     <string name="text_center_app">Bonjour !</string>
+    <string name="text_first_button">Appuyer ici !</string>
 </resources>
