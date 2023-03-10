@@ -3,4 +3,5 @@
     <string name="text_center_app">Bonjour !</string>
     <string name="text_first_button">Appuyer ici !</string>
     <string name="toast_button_clic">Coucou</string>
+    <string name="text_additem_menu">Ajouter</string>
 </resources>
